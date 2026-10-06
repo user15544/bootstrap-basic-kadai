@@ -330,7 +330,7 @@ p {
     position: relative;
   }
   
-  .copy_right>p,img {
+  .copy_right>p, img {
     margin-right: 1rem;
     font-size: 14px;
     margin: 0;
